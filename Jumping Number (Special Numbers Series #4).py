@@ -12,4 +12,3 @@ def jumping_number(number):
     return "Jumping !!"
 
 
-print(jumping_number(98789876))
