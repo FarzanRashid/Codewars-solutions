@@ -10,4 +10,4 @@ def strong_num(number):
     if total == number:
          return "STRONG!!!!"
     else:
-        return "Not Strong !!
+        return "Not Strong !!"
